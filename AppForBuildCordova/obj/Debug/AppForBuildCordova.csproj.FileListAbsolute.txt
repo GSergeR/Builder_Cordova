@@ -1,0 +1,11 @@
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\bin\Debug\AppForBuildCordova.exe.config
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\bin\Debug\AppForBuildCordova.exe
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\bin\Debug\AppForBuildCordova.pdb
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.csprojAssemblyReference.cache
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.AddApp.resources
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.Properties.Resources.resources
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.csproj.GenerateResource.cache
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.csproj.CoreCompileInputs.cache
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.exe
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.pdb
+C:\WorkSpace\AppForBuildCordova\AppForBuildCordova\AppForBuildCordova\obj\Debug\AppForBuildCordova.MainForm.resources
